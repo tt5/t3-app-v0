@@ -1,0 +1,4 @@
+localhost/api/auth/signin
+localhost/api/auth/session
+localhost/api/auth/signout
+
